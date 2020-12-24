@@ -65,7 +65,6 @@ examples/**/yarn.lock
 
 .rts2*
 
-dist
 
 tmp_schema.json
 .awcache
